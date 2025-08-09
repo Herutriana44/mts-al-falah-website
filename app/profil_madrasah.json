@@ -1,0 +1,225 @@
+{
+    "nam_madrasah": "Madrasah Tsanawiyah (MTs) Al-Falah",
+    "npsn": "20279226",
+    "alamat": "Jl. Mashudi No.2 RT.03/03, Desa Pangulah Utara, Kecamatan Kotabaru, Kabupaten Karawang, Provinsi Jawa Barat",
+    "no_akte_pendirian_yayasan": "AHU-0031966.AH.01.04. Tahun 2016",
+    "nama_yayasan": "YAPISAF (Yayasan Perguruan Agama Islam Al Falah)",
+    "nama_kepala": "Dra. Hj. Mahmudah",
+    "komite_madrasah": "Arif Rahman, S.Pd.I",
+    "status_bangungan": "Yayasan",
+    "luas_bangunan": "948 m2",
+    "kepemilikan_tanah": {
+        "tipe": "Yayasan",
+        "detail": [
+            "a. Status Tanah (Wakaf Yayasan)",
+            "b. Luas Tanah 1598 m2"
+        ]
+    },
+    "no_rekening": "0431687809 13.",
+    "npwp": "00.505.352.5-433.000",
+    "no_telp": "(0264) 315556",
+    "visi": "“Terwujudnya Peserta Didik yang Unggul dalam IPTEK berlandaskan IMTAQ”",
+    "misi": [
+        "Menumbuhkan semangat qur’ani dalam membentuk jiwa yang berakhlakul karimah.",
+        "Melaksanakan pembelajaran dan bimbingan secara efektif sehingga setiap siswa berkembang secara optimal, sesuai dengan potensi yang dimiliki.",
+        "Menumbuhkan semangat keunggulan iptek dan imtaq secara intensif kepada seluruh warga sekolah.",
+        "Mendorong dan membantu setiap siswa untuk mengenali potensi dirinya, sehinggadapat berkembang secara optimal.",
+        "Menghasilkan lulusan yang berprestasi dan berkualitas dalam iptek dan imtaq kepada Allah SWT"
+    ],
+    "data_pendidik_tenaga_kependidikan": {
+        "pendidik": {
+            "Guru PNS diperbantukan Tetap": {
+                "laki-laki": 0,
+                "perempuan": 1,
+                "jumlah": 1
+            },
+            "Guru Tetap Yayasan": {
+                "laki-laki": 6,
+                "perempuan": 11,
+                "jumlah": 17
+            },
+            "Guru Honorer": {
+                "laki-laki": 1,
+                "perempuan": 1,
+                "jumlah": 2
+            }
+        },
+        "tenaga_kependidikan": {
+            "Staff Tata Usaha": {
+                "laki-laki": 2,
+                "perempuan": 1,
+                "jumlah": 3
+            },
+            "Petugas Khusus": {
+                "laki-laki": 2,
+                "perempuan": 1,
+                "jumlah": 3
+            }
+        }
+    },
+    "data_siswa": {
+        "2022/2023": {
+            "kelas_7": {
+                "laki-laki": 61,
+                "perempuan": 65
+            },
+            "kelas_8": {
+                "laki-laki": 58,
+                "perempuan": 49
+            },
+            "kelas_9": {
+                "laki-laki": 71,
+                "perempuan": 56
+            },
+            "jumlah": {
+                "laki-laki": 190,
+                "perempuan": 170,
+                "total": 360
+            }
+        },
+        "2023/2024": {
+            "kelas_7": {
+                "laki-laki": 50,
+                "perempuan": 53
+            },
+            "kelas_8": {
+                "laki-laki": 61,
+                "perempuan": 65
+            },
+            "kelas_9": {
+                "laki-laki": 58,
+                "perempuan": 49
+            },
+            "jumlah": {
+                "laki-laki": 169,
+                "perempuan": 167,
+                "total": 336
+            }
+        },
+        "2024/2025": {
+            "kelas_7": {
+                "laki-laki": 49,
+                "perempuan": 55
+            },
+            "kelas_8": {
+                "laki-laki": 59,
+                "perempuan": 67
+            },
+            "kelas_9": {
+                "laki-laki": 58,
+                "perempuan": 67
+            },
+            "jumlah": {
+                "laki-laki": 166,
+                "perempuan": 189,
+                "total": 355
+            }
+        }
+    },
+    "prestasi": {
+        "2022/2023": [
+            {
+                "prestasi": "Juara 1 Lomba Cerdas Cermat Se-Kabupaten Karawang",
+                "tingkat": "Kabupaten"
+            },
+            {
+                "prestasi": "Juara 2 Lomba Pidato Bahasa Arab",
+                "tingkat": "Kabupaten"
+            },
+            {
+                "prestasi": "Juara 3 Lomba Karya Ilmiah Remaja",
+                "tingkat": "Kabupaten"
+            }
+        ]
+    },
+    "list_nama_guru": [
+        "Dra. Hj. Mahmudah",
+        "Quratul Aeni, S.Pd.",
+        "Rika Susanti, S.Pd.I",
+        "Iis Aisyah, S.Pd.I",
+        "Iat Solihatul Apiah, S.Pd.I",
+        "Dra. N. Nurpadilah",
+        "Tin Suwarti, S.Pd",
+        "Suhendar M Nur, S.Pd",
+        "Linda K Nisa, S.Pd",
+        "Fathul Barri, S.Hum",
+        "Ryan Astriani, S.Pd",
+        "M.Wildan H F, S.Pd",
+        "Arif Rahman,S.Pd.I",
+        "Drs.Mlulyadi",
+        "Zaenal Muhtadin, S.Pd.I",
+        "Sri Mulyati I F, S.Pd",
+        "Siti Rohmah, S.T",
+        "Agus Riyanto",
+        "Gegana Bima H, S.Pd",
+        "Farhan Putra Anugrah, S.Pd",
+        "Nana Setiana, S.Kom",
+        "Ghina Nafisaturrahmah, S.T",
+        "Nur Ainun Siti F, S.Pd",
+        "Theresia Stella, S.Pd"
+    ],
+	"list_prestasi" : {
+  "2024-2025": [
+    {
+      "prestasi": "Juara 2 MTQ Putri Tingkat KKM Rayon Jatisari",
+      "tingkat": "TK. KKM RAYON"
+    },
+    {
+      "prestasi": "Juara 2 Singer Putra Tingkat KKM Rayon Jatisari",
+      "tingkat": "TK. KKM RAYON"
+    },
+    {
+      "prestasi": "Juara 2 Futsal Tingkat KKM Rayon Jatisari",
+      "tingkat": "TK. KKM RAYON"
+    },
+    {
+      "prestasi": "Juara 1 Voli Putri Tingkat KKM Rayon Jatisari",
+      "tingkat": "TK. KKM RAYON"
+    },
+    {
+      "prestasi": "Juara 2 Tenis Meja Putri Tingkat KKM Rayon Jatisari",
+      "tingkat": "TK. KKM RAYON"
+    },
+    {
+      "prestasi": "Juara 2 Atletik Putri Tingkat KKM Rayon Jatisari",
+      "tingkat": "TK. KKM RAYON"
+    },
+    {
+      "prestasi": "Juara 3 Futsal Tingkat Kabupaten",
+      "tingkat": "KKM TK. KAB"
+    },
+    {
+      "prestasi": "Juara 3 Voli Putri Tingkat Kabupaten",
+      "tingkat": "KKM TK. KAB"
+    },
+    {
+      "prestasi": "Juara 1 Tenis Meja Putri Tingkat Kabupaten",
+      "tingkat": "KKM TK. KAB"
+    },
+    {
+      "prestasi": "Juara 2 PBB Pramuka Event nayarika",
+      "tingkat": "TK. JAWA BARAT"
+    },
+    {
+      "prestasi": "Juara Mula 1 LKBB Paskibra LACOSTAR SUBANG",
+      "tingkat": "TK. JAWA BARAT"
+    },
+    {
+      "prestasi": "Juara Bina 3 LKBB Paskibra GLOBARIS",
+      "tingkat": "TK. JAWA BARAT"
+    },
+    {
+      "prestasi": "Jura Mula 2 LKBB Paskibra KIBUYUT SUBANG",
+      "tingkat": "TK. JAWA BARAT"
+    },
+    {
+      "prestasi": "Juara Harapan Mula 1 LKBB Paskibra SAMUDJA PURWAKARTA",
+      "tingkat": "TK. JAWA BARAT"
+    },
+    {
+      "prestasi": "Juara Harapan 1 LKBB Paskibra CIPENDEUY Bandung",
+      "tingkat": "TK. JAWA BARAT"
+    }
+  ]
+}
+}
